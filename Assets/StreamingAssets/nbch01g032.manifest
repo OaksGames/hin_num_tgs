@@ -1,0 +1,164 @@
+ManifestFileVersion: 0
+CRC: 1678472716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a7c38489c9c8cabea147a5fab8f43a6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ac9e42a3d5636b0d375696873de145a0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4deeee7aa561d04396bdf4e10733e0c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be12e2859d001dc4c87de3b2c9d2bea5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 322a327987a594742aed02e0ae4afd02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da32252d6eff82d459686174a4c3b101, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Tutorial_VO/English/B01032_intro
+  3.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Questions_VO/English/B01031_Q
+  2.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/InGameAssets/B01032/Star-03-01.png
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Tutorial_VO/English/B01032_intro
+  4.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Questions_VO/English/B01031_Q
+  1.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Questions_VO/English/B01032_Q
+  2.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/B01031_Q 6.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/InGameAssets/panel.png
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Animations/Tutorial_2_B01032.controller
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Questions_VO/English/B01031_Q
+  5.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Answers_VO/English/B01032_A
+  9.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Tutorial_VO/English/B01032_intro
+  2.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Answers_VO/English/B01032_A
+  10.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Animations/Tutorial_1_B01032.anim
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Answers_VO/English/B01032_A
+  12.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/B01031_Q 4.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Answers_VO/English/B01032_A
+  4.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Answers_VO/English/B01032_A
+  6.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Answers_VO/English/B01032_A
+  5.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Answers_VO/English/B01032_A
+  2.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Prefabs/NB01032.prefab
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Answers_VO/English/B01032_A
+  11.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Tutorial_VO/English/B01031_intro
+  6.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Questions_VO/English/B01031_Q
+  4.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Answers_VO/English/B01032_A
+  8.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Tutorial_VO/English/B01032_intro
+  1.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Answers_VO/English/B01032_A
+  3.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Questions_VO/English/B01031_Q
+  6.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/B01031_Q 2.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/B01031_Q 1.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/InGameAssets/B01032/Christmas
+  bulb-01.png
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Answers_VO/English/B01032_A
+  7.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/InGameAssets/B01032_X/Sharpner-01.png
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Animations/Tutorial_2_B01032.anim
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Questions_VO/English/B01032_Q
+  1.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/InGameAssets/B01032_X/Crayons-01.png
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Answers_VO/English/B01032_A
+  13.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Questions_VO/English/B01031_Q
+  3.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/InGameAssets/B0103_BG.png
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/InGameAssets/B01032/Santa Claus
+  caps-01.png
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/InGameAssets/B01032/Candy Canes-01.png
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/Answers_VO/English/B01032_A
+  1.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/InGameAssets/B0103_gamescreen
+  2.png
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Animations/Tutorial_1_B01032.controller
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/InGameAssets/B01032/Leaf-01.png
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/InGameAssets/B0103_gamescreen
+  1.png
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/B01031_Q 3.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/InGameAssets/B01032_X/Eraser-01.png
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/InGameAssets/tree.png
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/Sounds/B01031_Q 5.mp3
+- Assets/Maths/1_LocalAssets/B0103132/B01032/Level1/InGameAssets/B01032_X/Pencil
+  -01.png
+Dependencies:
+- C:/Tushar/Tara num hindi AssetsBundles/nbch01g032assets
+- C:/Tushar/Tara num hindi AssetsBundles/numtgscommon

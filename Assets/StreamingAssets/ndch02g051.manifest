@@ -1,0 +1,133 @@
+ManifestFileVersion: 0
+CRC: 652556085
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 661ddb38f1d44cb8ced40cf7112e9f8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c267a32395ed8f1ee4965ec8343bd6dd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be12e2859d001dc4c87de3b2c9d2bea5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 322a327987a594742aed02e0ae4afd02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da32252d6eff82d459686174a4c3b101, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f5091047d93407941bc870f8f1f16ba4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_13.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_05.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_20.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_05.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Tutorial_VO/English/D02051 Intro_05.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Tutorial_VO/English/D02051 Intro_06.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Tutorial_VO/English/D02051 Intro_03.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/InGameAssets/Calendar template.png
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_02.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_18.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_07.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_12.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_16.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_15.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_16.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_07.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_09.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Animations/Tutorial_2_D02051.controller
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_03.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Tutorial_VO/English/D02051 Intro_02.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/InGameAssets/D02051_GS.png
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_09.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_10.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_14.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_14.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/InGameAssets/D02051_BG.png
+- Assets/Maths/1_LocalAssets/D02051/Level1/Animations/Tutorial_1_D02051.anim
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_01.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_08.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_18.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_04.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_04.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_17.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_08.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_15.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_12.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_19.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_10.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_06.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_02.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_01.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Tutorial_VO/English/D02051 Intro_01.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Prefabs/ND02051.prefab
+- Assets/Maths/1_LocalAssets/D02051/Level1/Animations/Tutorial_1_D02051.controller
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_06.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Animations/Tutorial_2_D02051.anim
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_11.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_19.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Answers_VO/English/D02051 A_11.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_03.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Tutorial_VO/English/D02051 Intro_07.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Questions_VO/English/D02051 Q_17.mp3
+- Assets/Maths/1_LocalAssets/D02051/Level1/Sounds/Tutorial_VO/English/D02051 Intro_04.mp3
+Dependencies:
+- C:/Tushar/Tara num hindi AssetsBundles/ndch01g031
+- C:/Tushar/Tara num hindi AssetsBundles/numtgscommon

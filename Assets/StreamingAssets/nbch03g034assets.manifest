@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 102852350
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 50a1919ee6dbbc5ca1bf3517c6c8c8d0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dda481f9c8e84683649c3a3d73eb91cb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Maths/1_LocalAssets/B03031323334/B03034/Level1/Prefabs/GameObjects/Number_78.prefab
+- Assets/Maths/1_LocalAssets/B03031323334/B03034/Level1/Prefabs/GameObjects/Number_74.prefab
+- Assets/Maths/1_LocalAssets/B03031323334/B03034/Level1/Prefabs/GameObjects/Number_77.prefab
+- Assets/Maths/1_LocalAssets/B03031323334/B03034/Level1/Prefabs/GameObjects/Number_75.prefab
+- Assets/Maths/1_LocalAssets/B03031323334/B03034/Level1/Prefabs/GameObjects/Number_76.prefab
+- Assets/Maths/1_LocalAssets/B03031323334/B03034/Level1/Prefabs/GameObjects/Number_72.prefab
+- Assets/Maths/1_LocalAssets/B03031323334/B03034/Level1/Prefabs/GameObjects/Number_80.prefab
+- Assets/Maths/1_LocalAssets/B03031323334/B03034/Level1/Prefabs/GameObjects/Number_73.prefab
+- Assets/Maths/1_LocalAssets/B03031323334/B03034/Level1/Prefabs/GameObjects/Number_71.prefab
+- Assets/Maths/1_LocalAssets/B03031323334/B03034/Level1/Prefabs/GameObjects/Number_79.prefab
+Dependencies:
+- C:/Tushar/Tara num hindi AssetsBundles/nbch03g034

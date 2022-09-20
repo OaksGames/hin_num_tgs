@@ -1,0 +1,149 @@
+ManifestFileVersion: 0
+CRC: 2439510755
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d3657563fe6bae20ca2d567097379afd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 78d860873a7b659a36bb42bf9027bfb6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b22ffebea67da64bb42d434ff616c14, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be12e2859d001dc4c87de3b2c9d2bea5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 322a327987a594742aed02e0ae4afd02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da32252d6eff82d459686174a4c3b101, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Maths/1_LocalAssets/A01081/Level1/Animations/Tutorial_2_A01081.anim
+- Assets/Maths/1_LocalAssets/A01081/Level1/Animations/Car1_Movement.controller
+- Assets/Maths/1_LocalAssets/A01081/Level1/Animations/Car2_Movement.anim
+- Assets/Maths/1_LocalAssets/A01081/Level1/Animations/Car3_Movement.controller
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/objects/ant.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/objects/layer 7.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Answers_VO/English/A0108_A 55.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Questions_VO/English/A0108_Q 3.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/Animations/Car3_Movement.anim
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/objects/layer 16.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Cars/A0108_BG2.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Answers_VO/English/A0108_A 7.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/objects/layer 9.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/objects/layer 8.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/A0108_BG.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Questions_VO/English/A0108_Q 4.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Answers_VO/English/A0108_A 4.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/objects/layer 12.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/objects/layer 6.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/Animations/Tutorial_2_A01081.controller
+- Assets/Maths/1_LocalAssets/A01081/Level1/Animations/Car2_Movement.controller
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/objects/layer 13.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/Animations/Tutorial_1_A01081.controller
+- Assets/Maths/1_LocalAssets/A01081/Level1/Animations/Car5_Movement.controller
+- Assets/Maths/1_LocalAssets/A01081/Level1/Animations/Car5_Movement.anim
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/objects/layer 5.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Questions_VO/English/A0108_Q 7.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/A0108_gamescreen.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Cars/Car 5.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/objects/ant 1.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Questions_VO/English/A0108_Q 55.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/Animations/Car4_Movement.controller
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Answers_VO/English/A0108_A 3.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Cars/A0108_gamescreen 2.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Questions_VO/English/A0108_Q 10.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Cars/Car 4.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Answers_VO/English/A0108_A 2.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Questions_VO/English/A0108_Q 8.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Tutorial_VO/English/A01081_intro
+  02.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Answers_VO/English/A0108_A 5.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/Animations/Tutorial_1_A01081.anim
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Answers_VO/English/A0108_A 9.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Answers_VO/English/A0108_A 10.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/objects/layer 2.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Tutorial_VO/English/A01081_intro
+  03.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Cars/Car 3.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/objects/layer 4.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Answers_VO/English/A0108_A 1.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Cars/Car 2.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Cars/Car 1.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/objects/layer 3.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/objects/layer 11.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/objects/layer 1.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/objects/layer 14.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Questions_VO/English/A0108_Q 5.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/Prefabs/NA01081.prefab
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Questions_VO/English/A0108_Q 1.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Answers_VO/English/A0108_A 6.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Questions_VO/English/A0108_Q 9.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/Animations/Car1_Movement.anim
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Questions_VO/English/A0108_Q 2.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Answers_VO/English/A0108_A 8.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/Animations/Car4_Movement.anim
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Tutorial_VO/English/A01081_intro
+  01.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/objects/layer 15.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/InGameAssets/Ants/objects/layer 10.png
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Tutorial_VO/English/A01081_intro
+  04.mp3
+- Assets/Maths/1_LocalAssets/A01081/Level1/Sounds/Questions_VO/English/A0108_Q 6.mp3
+Dependencies:
+- C:/Tushar/Tara num hindi AssetsBundles/numtgscommon

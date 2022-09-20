@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 2725655685
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 69a59aca2aba862568e3ad452d13eedf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e71dbf191b0152a075fcf64853e5b544
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/C01021_A 01.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Tutorial_VO/English/C01021_Intro
+  04.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Tutorial_VO/English/C01021_Intro
+  08.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_62.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/C01021_A 03.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Animations/Tutorial_2_C01021.controller
+- Assets/Maths/1_LocalAssets/C01021/Level1/InGameAssets/Apple.png
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Tutorial_VO/English/C01021_Intro
+  07.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Animations/Tutorial_2_C01021.anim
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_34.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Animations/Tutorial_1_C01021.controller
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/C01021_A 02.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_45.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Tutorial_VO/English/C01021_Intro
+  09.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_20.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Questions_VO/English/C01021_Q 03.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_54.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/InGameAssets/C01021_GS 1.png
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Tutorial_VO/English/C01021_Intro
+  03.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_80.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/InGameAssets/C01021_GS 2.png
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Questions_VO/English/C01021_Q 01.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/InGameAssets/Panel.png
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Tutorial_VO/English/C01021_Intro
+  01.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_86.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Tutorial_VO/English/C01021_Intro
+  06.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/InGameAssets/C01021 strawberry.png
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_12.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_30.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_100.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_16.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_90.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_70.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_10.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Animations/Tutorial_1_C01021.anim
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Tutorial_VO/English/C01021_Intro
+  02.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Questions_VO/English/C01021_Q 02.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_40.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_60.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/InGameAssets/Strwaberry baset.png
+- Assets/Maths/1_LocalAssets/C01021/Level1/InGameAssets/C01021_BG.png
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_78.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Tutorial_VO/English/C01021_Intro
+  05.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_50.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/InGameAssets/Apple with basket-01.png
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_24.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Answers_VO/English/Num_94.mp3
+- Assets/Maths/1_LocalAssets/C01021/Level1/Sounds/Questions_VO/English/C01021_Q 04.mp3
+Dependencies: []

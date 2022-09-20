@@ -1,0 +1,231 @@
+ManifestFileVersion: 0
+CRC: 1526327857
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60fe6aa84126156a07b0271fc6bcafcb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: abf69ad6e8ae3a17ecd1f1cb3798dd52
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be12e2859d001dc4c87de3b2c9d2bea5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 322a327987a594742aed02e0ae4afd02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da32252d6eff82d459686174a4c3b101, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d68c192563e7954fb0784595d04f8f0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_03.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Questions_VO/English/C11052
+  Q_05.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Rectangle
+  - letter.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Animations/Tutorial_C11052.anim
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_10.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Triangle
+  - Pizza.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Tutorial_VO/English/C11052
+  Intro_04.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Oval - egg.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Oval - mirror.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/C11052_BG.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_17.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Star - gingerbread.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Birdcage.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Triangle
+  - Napkin.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Circle -
+  Plate.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Questions_VO/English/C11052
+  Q_06.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Tutorial_VO/English/C11052
+  Intro_03.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Suitcase.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Circle -
+  clock.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_12.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Questions_VO/English/C11052
+  Q_09.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Questions_VO/English/C11052
+  Q_07.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_23.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Square -
+  gift box.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Balloon.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Rhombus -
+  Chip.jpg
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_08.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Note pa-01.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_09.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Oval - Balloon.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Rhombus -
+  kite.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Rectangle.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Egg.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Square -
+  Board.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Chips.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_18.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Prefabs/NC11052.prefab
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Tutorial_VO/English/C11052
+  Intro_02.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Star - Pillow.jpg
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Triangle
+  - Bday cap.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Questions_VO/English/C11052
+  Q_08.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Animations/Tutorial_2_C11052.controller
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_24.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_06.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_22.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Questions_VO/English/C11052
+  Q_02.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Tutorial_VO/English/C11052
+  Intro_05.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/C11052_GS.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Rectangle
+  - Milk box.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Donut.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Questions_VO/English/C11052
+  Q_01.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Dice.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Board.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/chocolate
+  3.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_26.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Bday hat.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_11.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Button.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Rectangle
+  - Book.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Crescent
+  - crossoint.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Circle -
+  Clock (2).png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Star - star
+  fish.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_25.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_27.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_21.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Watermelon.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Animations/Tutorial_C11052.controller
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Oval - WaterMelon.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Circle -
+  Orange.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Square -
+  Waffle.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_20.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_01.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_14.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_15.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_16.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Tutorial_VO/English/C11052
+  Intro_01.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Animations/Tutorial_2_C11052.anim
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Jelly.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_13.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_19.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Questions_VO/English/C11052
+  Q_04.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Questions_VO/English/C11052
+  Q_03.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_04.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Square -
+  biscuit.jpg
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Triangle
+  - Sandwich.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_07.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Clock.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/circle -
+  cookie.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/InGameAssets/Shapes/Traffic-sign.png
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_02.mp3
+- Assets/Maths/1_LocalAssets/C1105152/C11052/Level1/Sounds/Answers_VO/English/C11052
+  A_05.mp3
+Dependencies:
+- C:/Tushar/Tara num hindi AssetsBundles/ncch11g051
+- C:/Tushar/Tara num hindi AssetsBundles/numtgscommon

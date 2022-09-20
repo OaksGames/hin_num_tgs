@@ -1,0 +1,167 @@
+ManifestFileVersion: 0
+CRC: 2011529452
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9fb1d47dbc5adc90b222a3686acf7bce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: beaba7098804c6500096f9bf9f48542b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be12e2859d001dc4c87de3b2c9d2bea5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 322a327987a594742aed02e0ae4afd02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b44c87dddde87d44293e842259c804f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da32252d6eff82d459686174a4c3b101, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/A0208_gamescreen1.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Asset-no_0042_Book-down-view.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Animations/Tutorial_1_A02081.anim
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 1.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Asset-no_0015_Hinge-hook.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Tutorial_VO/English/A02081_intro
+  01.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 3.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 11.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 19.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/A0208_gamescreen2.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/purple umbrella.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Asset-no_0040_yellow-umbrella.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 15.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/greeen umbrella.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 15.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Animations/Tutorial_2_A02081.anim
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Green book 1.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 21.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 10.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Purple book 2.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 20.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Prefabs/NA02081.prefab
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 7.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 18.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Asset-no_0039_Red-umbrella.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 4.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 20.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Red bottle.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 12.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 12.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Brown book 2.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/yellow umbrella.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Green bottle.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/A0208_BG.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Asset-no_0041_Book-bacvk-view.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 16.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 7.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 1.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/red book 1.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 18.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/blue eumbrella.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 23.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Tutorial_VO/English/A02081_intro
+  04.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Asset-no_0038_Bottle.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Animations/Tutorial_2_A02081.controller
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 19.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 3.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 14.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/dark blue book 2.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 2.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 6.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Pink umbrella.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/yellow.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/blue book 1.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Purple book 1.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Object_0001_Red-umbrella.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 8.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 6.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 2.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 4.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 5.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 14.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Animations/Tutorial_1_A02081.controller
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 17.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 9.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/green umbrella.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Object_0002_yellow-umbrella.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 10.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 13.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Tutorial_VO/English/A02081_intro
+  02.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Tutorial_VO/English/A02081_intro
+  03.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 9.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Yellow bottle.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 16.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 5.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 17.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Green book 2.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 8.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Asset-no_0016_Hinge-back.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Asset-no_0053_Layer-58.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 22.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/InGameAssets/Assets/Rack.png
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Answers_VO/English/A0208_A 11.mp3
+- Assets/Maths/1_LocalAssets/A02081/Level1/Sounds/Questions_VO/English/A0208_Q 13.mp3
+Dependencies:
+- C:/Tushar/Tara num hindi AssetsBundles/numtgscommon

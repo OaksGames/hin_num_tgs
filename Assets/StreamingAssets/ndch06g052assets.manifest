@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 2671832386
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e911d56cdfc4f48d4f684dfeef9f8f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 30fd3a691ab4a281a5afdd9bcfff30a8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Maths/1_LocalAssets/D06052/Level1/Prefabs/Gem.prefab
+Dependencies:
+- C:/Tushar/Tara num hindi AssetsBundles/ndch06g052

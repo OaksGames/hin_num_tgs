@@ -1,0 +1,144 @@
+ManifestFileVersion: 0
+CRC: 3221277960
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a39dbb6caa38d36d4141c03af4e92e5b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f8d503a19636022b48cdd44f1dce8195
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be12e2859d001dc4c87de3b2c9d2bea5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 322a327987a594742aed02e0ae4afd02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 061c490ffab0cfe4791497a5c8e803f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da32252d6eff82d459686174a4c3b101, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Circle/Circle 7.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Answers_VO/English/C06041_A 03.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Answers_VO/English/C06041_A 04.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Rectangle/r1.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Circle/Circle 6.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Pentagon/p1.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Questions_VO/English/C06041_Q 01.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Tutorial_VO/English/C06041_Intro
+  02.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Questions_VO/English/C06041_Q 04.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Triangle/t3.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/Animations/Tutorial_1_C06041.anim
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Tutorial_VO/English/C06041_Intro
+  03.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Questions_VO/English/C06041_Q 06.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Rhombus/rr1.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Rectangle/r2.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Oval/O 4.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Tutorial_VO/English/C06041_Intro
+  01.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Tutorial_VO/English/C06041_Intro
+  06.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/Animations/Tutorial_2_C06041.controller
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Tutorial_VO/English/C06041_Intro
+  04.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Oval/O 3.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Oval/O 0.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Pentagon/p3.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Questions_VO/English/C06041_Q 03.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Tutorial_VO/English/C06041_Intro
+  05.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Triangle/t0.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Answers_VO/English/C06041_A 06.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Pentagon/p0.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Square/Sharing _ Fraction
+  cs 4 Square box.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/C06041_GS.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Answers_VO/English/C06041_A 07.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Square/Sq4.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/C06041_BG.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Square/s1.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Circle/Circle 0.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Circle/Circle 2.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Rectangle/r3.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/Animations/Tutorial_2_C06041.anim
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Rhombus/rr3.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Answers_VO/English/C06041_A 01.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Answers_VO/English/C06041_A 02.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Answers_VO/English/C06041_A 05.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Circle/Circle 5.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Questions_VO/English/C06041_Q 05.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Triangle/t2.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Triangle/t1.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Rectangle/r0.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Square/Square - 3.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Rhombus/rr0.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Rhombus/rr2.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Pentagon/p2.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Questions_VO/English/C06041_Q 08.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Questions_VO/English/C06041_Q 02.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/Sounds/Questions_VO/English/C06041_Q 07.mp3
+- Assets/Maths/1_LocalAssets/C06041/Level1/InGameAssets/Assets/Oval/O 1.png
+- Assets/Maths/1_LocalAssets/C06041/Level1/Animations/Tutorial_1_C06041.controller
+- Assets/Maths/1_LocalAssets/C06041/Level1/Prefabs/NC06041.prefab
+Dependencies:
+- C:/Tushar/Tara num hindi AssetsBundles/nbch05g022
+- C:/Tushar/Tara num hindi AssetsBundles/numtgscommon

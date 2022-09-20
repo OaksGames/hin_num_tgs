@@ -1,0 +1,171 @@
+ManifestFileVersion: 0
+CRC: 3048168583
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45b2862b0f1ab5e160343a2756eb3b5c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 77df008ec53547efd851cab77683a976
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be12e2859d001dc4c87de3b2c9d2bea5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 322a327987a594742aed02e0ae4afd02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6dbf4f02f5c62bf40a62106dcc7b785e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da32252d6eff82d459686174a4c3b101, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/Oakra.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/B08031_GS.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0010_Brinjal basket.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0001_Capsicum.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Answers_VO/English/B08032 A_09.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/spinach basket.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Answers_VO/English/B08032 A_03.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0013_Zucchini.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Questions_VO/English/B08032 Q_02.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0029_carrot.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0015_Bottle-guard.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Tutorial_VO/English/B08032 Intro_04.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0000_okra basket.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/tamato basket.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Animations/Tutorial_3_B08032 - Copy.anim
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/Garlic basket.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/peas basket.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Tutorial_VO/English/B08032 Intro_03.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0011_onion.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/Oakra.jpg
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Answers_VO/English/B08032 A_06.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Tutorial_VO/English/B08032 Intro_02.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0010_Brinjal.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/jackfruit basket.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0004_Lettuce.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0014_Potatoes.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0009_Peas.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0000_okra.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0002_tamato.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0007_Garlic.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Balance/2.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Answers_VO/English/B08032 A_07.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Balance/Crop/2.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Questions_VO/English/B08032 Q_09.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Tutorial_VO/English/B08032 Intro_01.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0029_carrot basket.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Prefabs/NB08032.prefab
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/Mushroom.jpg
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Questions_VO/English/B08032 Q_05.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Questions_VO/English/B08032 Q_03.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0006_Spinach.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/CHILLI basket.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/Beans basket.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/Chillli.jpg
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0015_Bottle-guard
+  basket.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Balance/5.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Tutorial_VO/English/B08032 Intro_07.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0017_Pumpkin basket.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/jackfruit.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0003_Mushroom.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Questions_VO/English/B08032 Q_08.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/Zucchini basket.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Balance/3.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Balance/4.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0004_Lettuce basket.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Answers_VO/English/B08032 A_02.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0008_CHILLI.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0017_Pumpkin.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0012_Ginger.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Answers_VO/English/B08032 A_01.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/Mushroom basket.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0016_Cauliflower.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Balance/1.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0001_Capsicum basket.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Animations/Tutorial_1_B08032.anim
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Tutorial_VO/English/B08032 Intro_06.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/Animations/Tutorial_3_B08032 - Copy.controller
+- Assets/Maths/1_LocalAssets/B08032/Level1/Animations/Tutorial_2_B08032.anim
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/peas 2.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Balance/Crop/3.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Animations/Tutorial_1_B08032.controller
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Balance/Crop/1.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Answers_VO/English/B08032 A_04.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/Chilly.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Animations/Tutorial_2_B08032.controller
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0005_Beans.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Answers_VO/English/B08032 A_08.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Questions_VO/English/B08032 Q_01.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Questions_VO/English/B08032 Q_06.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Questions_VO/English/B08032 Q_07.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/Spinach.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Questions_VO/English/B08032 Q_04.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/Beans.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/B08031_BG.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Answers_VO/English/B08032 A_05.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/Sounds/Tutorial_VO/English/B08032 Intro_05.mp3
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0014_Potatoes basket.png
+- Assets/Maths/1_LocalAssets/B08032/Level1/InGameAssets/Objects/_0016_Cauliflower
+  basket.png
+Dependencies:
+- C:/Tushar/Tara num hindi AssetsBundles/numtgscommon

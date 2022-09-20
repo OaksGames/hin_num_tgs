@@ -1,0 +1,108 @@
+ManifestFileVersion: 0
+CRC: 4267833051
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1c8c8878e4f5b16cdad44bc167c647d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 36bd7aa3d34f29090141887458fa9feb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be12e2859d001dc4c87de3b2c9d2bea5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 322a327987a594742aed02e0ae4afd02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8540f3eed4d25ed4884019b8a4bc88da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da32252d6eff82d459686174a4c3b101, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Maths/1_LocalAssets/C11071/Level1/Prefabs/NC11071.prefab
+- Assets/Maths/1_LocalAssets/C11071/Level1/Sounds/Tutorial_VO/English/C11071 Intro_04.mp3
+- Assets/Maths/1_LocalAssets/C11071/Level1/Animations/Tutorial_2_C11071.anim
+- Assets/Maths/1_LocalAssets/C11071/Level1/InGameAssets/spherical.png
+- Assets/Maths/1_LocalAssets/C11071/Level1/InGameAssets/C11051_BG2.png
+- Assets/Maths/1_LocalAssets/C11071/Level1/Sounds/Answers_VO/English/C11071 A_05.mp3
+- Assets/Maths/1_LocalAssets/C11071/Level1/Sounds/Questions_VO/English/C11071 Q_04.mp3
+- Assets/Maths/1_LocalAssets/C11071/Level1/Sounds/Questions_VO/English/C11071 Q_03.mp3
+- Assets/Maths/1_LocalAssets/C11071/Level1/Sounds/Answers_VO/English/C11071 A_03.mp3
+- Assets/Maths/1_LocalAssets/C11071/Level1/Sounds/Questions_VO/English/C11071 Q_05.mp3
+- Assets/Maths/1_LocalAssets/C11071/Level1/InGameAssets/Cylindrical.png
+- Assets/Maths/1_LocalAssets/C11071/Level1/InGameAssets/pyramid.png
+- Assets/Maths/1_LocalAssets/C11071/Level1/Sounds/Answers_VO/English/C11071 A_06.mp3
+- Assets/Maths/1_LocalAssets/C11071/Level1/Sounds/Questions_VO/English/C11071 Q_02.mp3
+- Assets/Maths/1_LocalAssets/C11071/Level1/Sounds/Tutorial_VO/English/C11071 Intro_02.mp3
+- Assets/Maths/1_LocalAssets/C11071/Level1/InGameAssets/C11071_BG.png
+- Assets/Maths/1_LocalAssets/C11071/Level1/Sounds/Questions_VO/English/C11071 Q_06.mp3
+- Assets/Maths/1_LocalAssets/C11071/Level1/Sounds/Tutorial_VO/English/C11071 Intro_01.mp3
+- Assets/Maths/1_LocalAssets/C11071/Level1/Animations/Tutorial_2_C11071.controller
+- Assets/Maths/1_LocalAssets/C11071/Level1/Sounds/Answers_VO/English/C11071 A_01.mp3
+- Assets/Maths/1_LocalAssets/C11071/Level1/Animations/Tutorial_C11071.controller
+- Assets/Maths/1_LocalAssets/C11071/Level1/Animations/Tutorial_C11071.anim
+- Assets/Maths/1_LocalAssets/C11071/Level1/Sounds/Questions_VO/English/C11071 Q_01.mp3
+- Assets/Maths/1_LocalAssets/C11071/Level1/Sounds/Tutorial_VO/English/C11071 Intro_05.mp3
+- Assets/Maths/1_LocalAssets/C11071/Level1/Sounds/Answers_VO/English/C11071 A_02.mp3
+- Assets/Maths/1_LocalAssets/C11071/Level1/Sounds/Answers_VO/English/C11071 A_04.mp3
+- Assets/Maths/1_LocalAssets/C11071/Level1/InGameAssets/C11071_GS.png
+- Assets/Maths/1_LocalAssets/C11071/Level1/Sounds/Tutorial_VO/English/C11071 Intro_03.mp3
+- Assets/Maths/1_LocalAssets/C11071/Level1/InGameAssets/Cube.png
+- Assets/Maths/1_LocalAssets/C11071/Level1/InGameAssets/cuboid.png
+- Assets/Maths/1_LocalAssets/C11071/Level1/InGameAssets/cone.png
+Dependencies:
+- C:/Tushar/Tara num hindi AssetsBundles/numtgscommon

@@ -1,0 +1,116 @@
+ManifestFileVersion: 0
+CRC: 878245116
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ceb08d575b2dcdd502b881d475f3c173
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ef8e5456066ddfa95a2a742c96257d07
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 322a327987a594742aed02e0ae4afd02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da32252d6eff82d459686174a4c3b101, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 221
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/0_GlobalAssets/MenuPagesUI/TickMark/Ful image.png
+- Assets/Maths/Audios/Correct_Answer.mp3
+- Assets/0_GlobalAssets/Fonts/arlrdbd.ttf
+- Assets/0_GlobalAssets/MenuPagesUI/ProgressBar/Bar button.png
+- Assets/0_GlobalAssets/Animations/Buttons/PlayButton/Button_Play.overrideController
+- Assets/0_GlobalAssets/Prefabs/GameObjects/Panel_LC.prefab
+- Assets/Maths/Audios/Score_bell_1_b.wav
+- Assets/Maths/Audios/Cut.mp3
+- Assets/Maths/Audios/Appreciation_Good.mp3
+- Assets/0_GlobalAssets/Animations/Buttons/BasicButtons/Pressed_Soft.anim
+- Assets/Maths/Audios/StartButton.mp3
+- Assets/0_GlobalAssets/Prefabs/UI/Btn_Ok.prefab
+- Assets/0_GlobalAssets/Animations/Buttons/BasicButtons/Pressed.anim
+- Assets/0_GlobalAssets/MenuPagesUI/Hand/Hand_3.png
+- Assets/0_GlobalAssets/MenuPagesUI/ProgressBar/ProgressbarBGRef.png
+- Assets/Maths/Audios/Appreciations_2/D06011_E 03.mp3
+- Assets/Textures/UI/MainFrameWork/UI buttons/Honey.png
+- Assets/Maths/Audios/Appreciation_Weldone.mp3
+- Assets/0_GlobalAssets/Animations/Buttons/BasicButtons/Button 1.controller
+- Assets/0_GlobalAssets/Prefabs/Canvas_ProgressBar.prefab
+- Assets/0_GlobalAssets/MenuPagesUI/Hand/Hand_1.png
+- Assets/Maths/Audios/Appreciation_Nice.mp3
+- Assets/0_GlobalAssets/MenuPagesUI/ProgressBar/ProgressbarWhite.png
+- Assets/Maths/Audios/Incorrect_Answer.wav
+- Assets/0_GlobalAssets/MenuPagesUI/Hand/Hand_2.png
+- Assets/0_GlobalAssets/Animations/Buttons/BasicButtons/Button.controller
+- Assets/0_GlobalAssets/Prefabs/UI/Btn_Back.prefab
+- Assets/0_GlobalAssets/MenuPagesUI/ProgressBar/ProgressbarBGFill.png
+- Assets/0_GlobalAssets/Prefabs/UI/ProgressBar.prefab
+- Assets/0_GlobalAssets/MenuPagesUI/ProgressBar/ProgressbarBG.png
+- Assets/Maths/Audios/Appreciations_2/D06011_E 02.mp3
+- Assets/0_GlobalAssets/Prefabs/UI/TickMark_Setup.prefab
+- Assets/Maths/Audios/Appreciation_Great.mp3
+- Assets/0_GlobalAssets/MenuPagesUI/TickMark/Tick mark.png
+- Assets/0_GlobalAssets/MenuPagesUI/ProgressBar/ProgressbarInside.png
+- Assets/0_GlobalAssets/Animations/Buttons/PlayButton/TickMark_Setup.controller
+- Assets/Textures/UI/MainFrameWork/UI buttons/Progress bar.png
+- Assets/Maths/Audios/OptionSelectedNew.mp3
+- Assets/0_GlobalAssets/MenuPagesUI/Buttons/Btn_Back.png
+- Assets/Maths/Audios/Appreciation_Splended.mp3
+- Assets/0_GlobalAssets/MenuPagesUI/ProgressBar/Full progress bar.png
+- Assets/0_GlobalAssets/MenuPagesUI/TickMark/Yellow dot.png
+- Assets/0_GlobalAssets/Animations/Buttons/BasicButtons/Button_Soft.overrideController
+- Assets/0_GlobalAssets/Animations/Buttons/PlayButton/Idle_Play.anim
+- Assets/0_GlobalAssets/MenuPagesUI/Buttons/Btn_Ok_Grey.png
+- Assets/0_GlobalAssets/Animations/Buttons/BasicButtons/Button 2.controller
+- Assets/Maths/Audios/tick.mp3
+- Assets/Maths/Audios/BtnOk_Click_old.mp3
+- Assets/0_GlobalAssets/MenuPagesUI/TickMark/White circle.png
+- Assets/Maths/Audios/Appreciation_Excellent.mp3
+- Assets/Maths/Audios/Appreciations_2/D06011_E 01.mp3
+- Assets/Textures/UI/MainFrameWork/UI buttons/Back.png
+- Assets/Maths/Audios/Appreciations_2/D06011_E 05.mp3
+- Assets/0_GlobalAssets/Animations/Buttons/BasicButtons/Idle.anim
+- Assets/0_GlobalAssets/MenuPagesUI/Buttons/Btn_Ok_Green.png
+- Assets/Maths/Audios/Appreciations_2/D06011_E 04.mp3
+- Assets/Maths/Audios/OptionPop.mp3
+- Assets/0_GlobalAssets/MenuPagesUI/Buttons/Btn_Ok_Green_Pressed.png
+Dependencies: []
