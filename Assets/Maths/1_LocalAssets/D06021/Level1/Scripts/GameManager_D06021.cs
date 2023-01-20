@@ -892,19 +892,7 @@ public class GameManager_D06021 : MonoBehaviour, IOAKSGame
                 GemSlots[0].transform.parent.GetComponent<GridLayoutGroup>().enabled = false;
                
             }
-           // else
-            //if (CountOk == 2)
-            //{
-            //    CountOk++;              
-                
-            //    Is_OkButtonPressed = false;
-            //    CancelInvoke("RepeatQVOAftertChoosingOption");
-            //    Invoke("PlayQuestionVO4", 0);
-               
-            //    iTween.MoveTo(SidePanel.gameObject, iTween.Hash("x", 512, "islocal", true, "time", 1f, "delay",0, "easetype", iTween.EaseType.easeOutElastic));
-            //    _tempQopt = EachCartMaxCount;
-            //    StartCoroutine("SetAnswerOptions", 0);                
-            //}
+         
             else
             {
                 //ProgreesBar.GetComponent<Slider>().value += 1;

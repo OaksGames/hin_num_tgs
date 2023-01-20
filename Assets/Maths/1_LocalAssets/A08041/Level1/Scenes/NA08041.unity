@@ -205,35 +205,5 @@ PrefabInstance:
       propertyPath: NoOfQuestionsToAsk
       value: 5
       objectReference: {fileID: 0}
-    - target: {fileID: 2306591296427294541, guid: d8167e856dbc82a4d8f9543b6310a45d,
-        type: 3}
-      propertyPath: QuestionsOrder1.Array.size
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 2306591296427294541, guid: d8167e856dbc82a4d8f9543b6310a45d,
-        type: 3}
-      propertyPath: QuestionsOrder1.Array.data[5]
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 2306591296427294541, guid: d8167e856dbc82a4d8f9543b6310a45d,
-        type: 3}
-      propertyPath: QuestionsOrder1.Array.data[6]
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 2306591296427294541, guid: d8167e856dbc82a4d8f9543b6310a45d,
-        type: 3}
-      propertyPath: QuestionsOrder1.Array.data[7]
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 2306591296427294541, guid: d8167e856dbc82a4d8f9543b6310a45d,
-        type: 3}
-      propertyPath: QuestionsOrder1.Array.data[8]
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 2306591296427294541, guid: d8167e856dbc82a4d8f9543b6310a45d,
-        type: 3}
-      propertyPath: QuestionsOrder1.Array.data[9]
-      value: 9
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d8167e856dbc82a4d8f9543b6310a45d, type: 3}

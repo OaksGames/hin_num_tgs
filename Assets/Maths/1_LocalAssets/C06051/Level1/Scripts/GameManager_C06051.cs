@@ -191,6 +191,7 @@ public class GameManager_C06051 : MonoBehaviour, IOAKSGame
         float LengthDelay = PlayAnswerVoiceOver(8, 0);
         PlayAppreciationVoiceOver(LengthDelay);
         PlayAudio(Sound_CorrectAnswer, LengthDelay + 1f);
+        PlayAudio(Sound_Intro4, LengthDelay + 1.2f);
 
         Tween_TickMark.myScript.Invoke("Tween_In", LengthDelay + 1f);
         Tut_Options.transform.GetChild(0).GetComponent<PopTweenCustom>().Invoke("StopAnim", LengthDelay + 1f);

@@ -138,7 +138,7 @@ public class GameManager_D06011 : MonoBehaviour, IOAKSGame
         }
         
         Invoke("EnableAnimator", 3f);
-        Invoke("CallIntro2", Sound_Intro1[VOLanguage].clip.length + 0.5f);
+        Invoke("CallIntro2", Sound_Intro1[VOLanguage].clip.length + 1f);
 
        
         for (int i = 0; i < 3; i++)
@@ -604,7 +604,7 @@ public class GameManager_D06011 : MonoBehaviour, IOAKSGame
         }
 
         Invoke("EnableOptionsRaycast", QVOLength);
-        Invoke("PlayQuestionVO3", QVOLength + _delay+7);
+        //Invoke("PlayQuestionVO3", QVOLength + _delay+7);
     }
 
     void PlayQuestionVO3()

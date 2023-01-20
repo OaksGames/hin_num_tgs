@@ -73,48 +73,8 @@ public class GameManager_B03024 : MonoBehaviour, IOAKSGame
 
             SetTutorial(gameInputData);
         }
-        /*if (Is_Tutorial)
-        {
-            SetTutorial();
-        }
-        else
-        {
-            SetGamePlay();
-        }*/
+
     }
-
-    /* bool Init;
-     private void OnEnable()
-     {
-         if (Init)
-         {
-             if (Is_Tutorial)
-             {
-                 SetTutorial();
-             }
-             else
-             {
-                 SetGamePlay();
-             }
-         }
-     }
-     private void OnDisable()
-     {
-         if (!Init)
-         {
-             MultiLevelManager.instance.LoadProgressMaxValues(NoOfQuestionsToAsk);
-             Init = true;
-         }
-     }
-
-     private void Update()
-     {
-         // TEST
-         if (Input.GetKeyDown(KeyCode.S))
-         {
-             ShowLC();
-         }
-     }*/
 
     public void StartGame(GameInputData data)
     {
@@ -138,11 +98,11 @@ public class GameManager_B03024 : MonoBehaviour, IOAKSGame
             ////////////////What the value should add in progress bar aftereach question//////////////////
             TotalQues = gameInputData.Mechanics.Count;
             //***************************************************
-            AddValueInProgress = 1 / (float)TotalQues;
+            AddValueInProgress = 1 / (float)NoOfQuestionsToAsk;
             Thisgamekey = gameInputData.Key;
         }
 
-        SetQues(TotalQues, Thisgamekey);
+
 
         TutorialObj.gameObject.SetActive(true);
         LevelHolder.gameObject.SetActive(false);
@@ -161,51 +121,7 @@ public class GameManager_B03024 : MonoBehaviour, IOAKSGame
         Invoke("CallIntro2", Sound_Intro1[VOLanguage].clip.length + 2f);
     }
 
-    void SetQues(int TotalQues, string Thisgamekey)
-    {
 
-        int[] QuesTemp = new int[TotalQues];
-        Ques_1 = new int[TotalQues];
-        int j = 0;
-        int random = Random.Range(0, 5);
-        if (random == 0)
-            j = 0;
-        else if (random == 1)
-            j = 2;
-        else if (random == 2)
-            j = 4;
-        else if (random == 3)
-            j = 6;
-        else if (random == 4)
-            j = 8;
-
-        //Debug.Log("Picked Ques from : " + j);
-        int p = 0;
-        for (int i = j; i < (j + TotalQues); i++)
-        {
-            QuesTemp[p] = Ques_1[p];
-            p++;
-        }
-
-        System.Array.Copy(QuesTemp, Ques_1, QuesTemp.Length);
-
-        // create a list of questions being posed in the game
-        List<string> QuesKeys = new List<string>();
-
-
-        // Add the questions keys to the list
-        for (int i = 0; i < TotalQues; i++)
-        {
-            // example key A05011_Q01
-            string AddKey = "" + Thisgamekey + "_Q" + Ques_1[i];
-            QuesKeys.Add(AddKey);
-            Debug.Log("Add : " + AddKey);
-        }
-        // send the list of questions to initialize the 
-        if (FrameworkOff == false)
-            GameFrameworkInterface.Instance.ReplaceQuestionKeys(QuesKeys);
-
-    }
 
     public void EnableAnimator()
     {
@@ -220,7 +136,7 @@ public class GameManager_B03024 : MonoBehaviour, IOAKSGame
     public void CallIntro2()
     {
         PlayAudioRepeated(Sound_Intro2);
-        Invoke("TutEnableRaycast", Sound_Intro2[VOLanguage].clip.length + 0.5f);
+        Invoke("TutEnableRaycast", Sound_Intro2[VOLanguage].clip.length);
     }
 
     public void TutEnableRaycast()
@@ -253,7 +169,7 @@ public class GameManager_B03024 : MonoBehaviour, IOAKSGame
         TutHand2.gameObject.SetActive(false);
 
         float LengthDelay = PlayAppreciationVoiceOver(0.25f);
-        float LengthDelay2 = PlayAnswerVoiceOver(4, LengthDelay+0.25f);
+        float LengthDelay2 = PlayAnswerVoiceOver(4, LengthDelay + 0.25f);
         PlayAudio(Sound_CorrectAnswer, LengthDelay + LengthDelay2 + 1f);
 
         Tween_TickMark.myScript.Invoke("Tween_In", LengthDelay + LengthDelay2 + 1f);
@@ -278,11 +194,17 @@ public class GameManager_B03024 : MonoBehaviour, IOAKSGame
         { QuestionsOrder1 = RandomArray_Int(QuestionsOrder1); }
 
         QuestionOrderList = new List<int>();
+        List<string> QuesKeys = new List<string>();
 
         for (int i = 0; i < NoOfQuestionsToAsk; i++)
         {
             QuestionOrderList.Add(QuestionsOrder1[i]);
+            //------------------------------------------
+            string AddKey = "" + Thisgamekey + "_Q" + QuestionOrderList[i];
+            QuesKeys.Add(AddKey);
         }
+        if (FrameworkOff == false)
+            GameFrameworkInterface.Instance.ReplaceQuestionKeys(QuesKeys);
 
         StartCoroutine(SetOk_Button(false, 0f));
 
@@ -593,7 +515,7 @@ public class GameManager_B03024 : MonoBehaviour, IOAKSGame
             Debug.Log("CORRECT ANSWER : " + UserAnsr);
             if (Testing)
             {
-               // ProgreesBar.GetComponent<Slider>().value += 1;
+                // ProgreesBar.GetComponent<Slider>().value += 1;
             }
             //INGAME_COMMON
             //MultiLevelManager.instance.UpdateProgress(1, 1);
@@ -602,7 +524,7 @@ public class GameManager_B03024 : MonoBehaviour, IOAKSGame
             WrongAnsrsCount = 0;
 
             float LengthDelay = PlayAppreciationVoiceOver(0.25f);
-            float LengthDelay2 = PlayAnswerVoiceOver(CurrentQuestion, LengthDelay+0.25f);
+            float LengthDelay2 = PlayAnswerVoiceOver(CurrentQuestion, LengthDelay + 0.25f);
             PlayAudio(Sound_CorrectAnswer, LengthDelay + LengthDelay2 + 0.75f);
 
 
@@ -646,9 +568,9 @@ public class GameManager_B03024 : MonoBehaviour, IOAKSGame
                 }
                 else
                 {
-                   // ProgreesBar.GetComponent<Slider>().value += 1;
+                    // ProgreesBar.GetComponent<Slider>().value += 1;
                     //INGAME_COMMON
-                   // MultiLevelManager.instance.UpdateProgress(1, 0);
+                    // MultiLevelManager.instance.UpdateProgress(1, 0);
                     //INGAME_COMMON
                 }
 

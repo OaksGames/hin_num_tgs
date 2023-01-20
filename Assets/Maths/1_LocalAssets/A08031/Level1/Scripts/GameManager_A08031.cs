@@ -104,16 +104,16 @@ public class GameManager_A08031 : MonoBehaviour, IOAKSGame
             ////////////////What the value should add in progress bar aftereach question//////////////////
             TotalQues = gameInputData.Mechanics.Count;
             //***************************************************
-            AddValueInProgress = 1 / (float)TotalQues;
+            AddValueInProgress = 1 / (float)QuestionsOrder1.Length;
             Thisgamekey = gameInputData.Key;
         }
 
-        SetQues(TotalQues, Thisgamekey);
+        //SetQues(TotalQues, Thisgamekey);
 
         LevelObj.gameObject.SetActive(false);
         TutorialObj.gameObject.SetActive(true);
 
-       // PlayAudio(Sound_Intro1, 2f);
+        //PlayAudio(Sound_Intro1, 2f);
 
         float _delay = 0;
         for (int i = 0; i < Tut_Items.transform.childCount; i++)
@@ -132,26 +132,6 @@ public class GameManager_A08031 : MonoBehaviour, IOAKSGame
         Sound_Intro1[VOLanguage].Play();
     }
 
-    void SetQues(int TotalQues, string Thisgamekey)
-    {
-
-        // create a list of questions being posed in the game
-        List<string> QuesKeys = new List<string>();
-
-
-        // Add the questions keys to the list
-        for (int i = 0; i < TotalQues; i++)
-        {
-            // example key A05011_Q01
-            string AddKey = "" + Thisgamekey + "_Q" + i;
-            QuesKeys.Add(AddKey);
-            Debug.Log("Add : " + AddKey);
-        }
-        // send the list of questions to initialize the 
-        if (FrameworkOff == false)
-            GameFrameworkInterface.Instance.ReplaceQuestionKeys(QuesKeys);
-
-    }
 
     public void EnableAnimator()
     {
@@ -196,17 +176,16 @@ public class GameManager_A08031 : MonoBehaviour, IOAKSGame
         TutHand2.gameObject.SetActive(false);
 
         CurrentItem = 1;
-        
         float LengthDelay = PlayAppreciationVoiceOver(0.25f);
-        float LengthDelay2 = PlayAnswerVoiceOver(1, LengthDelay+0.25f);
-        PlayAudio(Sound_CorrectAnswer, LengthDelay + LengthDelay2+0.5f);
+        float LengthDelay2 = PlayAnswerVoiceOver(1, LengthDelay + 0.25f);
+        PlayAudio(Sound_CorrectAnswer, LengthDelay + LengthDelay2 + 0.5f);
 
-        Tween_TickMark.myScript.Invoke("Tween_In", LengthDelay + LengthDelay2+0.5f);
-        Tut_Items.transform.GetChild(0).GetComponent<PopTweenCustom>().Invoke("StopAnim", LengthDelay+ LengthDelay2 + 1f);
+        Tween_TickMark.myScript.Invoke("Tween_In", LengthDelay + LengthDelay2 + 0.5f);
+        Tut_Items.transform.GetChild(0).GetComponent<PopTweenCustom>().Invoke("StopAnim", LengthDelay + LengthDelay2 + 1f);
 
         PlayAudio(Sound_Intro4, LengthDelay + LengthDelay2 + 1.5f);
 
-        Invoke("SetGamePlay", LengthDelay + LengthDelay2+Sound_Intro4[VOLanguage].clip.length + 1f);
+        Invoke("SetGamePlay", LengthDelay + LengthDelay2 + Sound_Intro4[VOLanguage].clip.length + 1f);
     }
     #endregion
 
@@ -224,17 +203,24 @@ public class GameManager_A08031 : MonoBehaviour, IOAKSGame
         {
             ProgreesBar.GetComponent<Slider>().maxValue = NoOfQuestionsToAsk;
         }
-        
+
 
         if (Is_NeedRandomizedQuestions)
         { QuestionsOrder1 = RandomArray_Int(QuestionsOrder1); }
 
         QuestionOrderList = new List<int>();
+        List<string> QuesKeys = new List<string>();
 
-        for (int i = 0; i < NoOfQuestionsToAsk; i++)
+        for (int i = 0; i < QuestionsOrder1.Length/*NoOfQuestionsToAsk*/; i++)
         {
             QuestionOrderList.Add(QuestionsOrder1[i]);
+            //------------------------------------------
+            string AddKey = "" + Thisgamekey + "_Q" + QuestionOrderList[i];
+            QuesKeys.Add(AddKey);
+
         }
+        if (FrameworkOff == false)
+            GameFrameworkInterface.Instance.ReplaceQuestionKeys(QuesKeys);
 
         StartCoroutine(SetOk_Button(false, 0f));
 
@@ -369,7 +355,7 @@ public class GameManager_A08031 : MonoBehaviour, IOAKSGame
 
     public IEnumerator SetOk_Button(bool _IsSet, float _delay)
     {
-        Is_CanClick =_IsSet;
+        Is_CanClick = _IsSet;
         yield return new WaitForSeconds(_delay);
         Btn_Ok.gameObject.SetActive(_IsSet);
         Btn_Ok_Dummy.gameObject.SetActive(!_IsSet);
@@ -444,13 +430,13 @@ public class GameManager_A08031 : MonoBehaviour, IOAKSGame
             }
             WrongAnsrsCount = 0;
 
-            float LengthDelay = PlayAppreciationVoiceOver(Sound_BtnOkClick.clip.length) + Sound_BtnOkClick.clip.length+0.25f;
+            float LengthDelay = PlayAppreciationVoiceOver(Sound_BtnOkClick.clip.length) + Sound_BtnOkClick.clip.length + 0.25f;
             float LengthDelay2 = PlayAnswerVoiceOver(CurrentQuestion, LengthDelay + 0.25f);
 
             PlayAudio(Sound_CorrectAnswer, LengthDelay + LengthDelay2 + 0.5f);
             Tween_TickMark.myScript.Invoke("Tween_In", LengthDelay + LengthDelay2 + 0.5f);
 
-            StartCoroutine(SetActiveWithDelayCall(LevelsHolder, false, LengthDelay+ LengthDelay2 + 2f));
+            StartCoroutine(SetActiveWithDelayCall(LevelsHolder, false, LengthDelay + LengthDelay2 + 2f));
 
             if (QuestionOrder1 < (QuestionOrderList.Count) ||
                 WrongAnsweredQuestionOrder1 < (WrongAnsweredQuestions1.Count))
@@ -498,7 +484,7 @@ public class GameManager_A08031 : MonoBehaviour, IOAKSGame
                 }
                 else
                 {
-                   // ProgreesBar.GetComponent<Slider>().value += 1;
+                    // ProgreesBar.GetComponent<Slider>().value += 1;
                 }
 
                 if (QuestionOrder1 < (QuestionOrderList.Count) ||
@@ -529,7 +515,7 @@ public class GameManager_A08031 : MonoBehaviour, IOAKSGame
             }
         }
         StartCoroutine(SetOk_Button(false, 0.25f));
-    }   
+    }
 
     void HighlightCorrectOptions()
     {

@@ -105,40 +105,6 @@ public class GameManager_C11042 : MonoBehaviour, IOAKSGame
         // throw new System.NotImplementedException();
     }
 
-   /* bool Init;
-    private void OnEnable()
-    {
-        if (Init)
-        {
-            if (Is_Tutorial)
-            {
-                SetTutorial();
-            }
-            else
-            {
-                SetGamePlay();
-            }
-        }
-    }
-
-    private void OnDisable()
-    {
-        if (!Init)
-        {
-            MultiLevelManager.instance.LoadProgressMaxValues(NoOfQuestionsType1Ask + NoOfQuestionsType2Ask);
-            Init = true;
-        }
-    }
-
-    private void Update()
-    {
-        // TEST
-        if (Input.GetKeyDown(KeyCode.S))
-        {
-            ShowLC();
-        }
-    }*/
-
     #region TUTORIAL
     public void SetTutorial(GameInputData gameInputData)
     {

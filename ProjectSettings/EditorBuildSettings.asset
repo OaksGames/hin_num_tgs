@@ -6,27 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/0_GlobalAssets/Scenes/Demo.unity
-    guid: 00878d8f5c7e8b147a212ab9dd833006
-  - enabled: 1
-    path: Assets/Maths/1_LocalAssets/D06011/Level1/Scenes/Scene_D06011.unity
-    guid: 5268e438783230e4d9891326c4ee075d
-  - enabled: 1
-    path: Assets/Maths/1_LocalAssets/D06021/Level1/Scenes/Scene_D06021.unity
-    guid: 86128e4da3b85cc42af9a405d4378dea
-  - enabled: 1
-    path: Assets/Maths/1_LocalAssets/D06031/Level1/Scenes/Scene_D06031.unity
-    guid: 2d14934dbe67b814e9ff33a5624d2754
-  - enabled: 1
-    path: Assets/Maths/1_LocalAssets/D06041/Level1/Scenes/Scene_D06041.unity
-    guid: d44e2633259ad02499827879f8930ca7
-  - enabled: 1
-    path: Assets/Maths/1_LocalAssets/D06051/Level1/Scenes/Scene_D06051.unity
-    guid: f735ac19aa4c63c4997c8ddde8ea263d
-  - enabled: 1
-    path: Assets/Maths/1_LocalAssets/D06052/Level1/Scenes/Scene_D06052.unity
-    guid: c49fa9b4d5f1a0543a3812c1d468bed9
-  - enabled: 1
-    path: Assets/Maths/1_LocalAssets/D06061/Level1/Scenes/Scene_D06061.unity
-    guid: 6447ec92b6c60234baedab6a11421934
+    path: Assets/Maths/1_LocalAssets/B09021/Level1/Scenes/NB09021.unity
+    guid: 69b06d2311ffbbf418af87f9d43033a4
   m_configObjects: {}

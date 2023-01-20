@@ -3522,7 +3522,7 @@ MonoBehaviour:
   TutHand1: {fileID: 2306591297315407095}
   TutHand2: {fileID: 2306591296228730987}
   Is_NeedRandomizedQuestions: 1
-  NoOfQuestionsToAsk: 5
+  NoOfQuestionsToAsk: 10
   LevelObj: {fileID: 2306591296844283638}
   ProgreesBar: {fileID: 2306591297135742643}
   Btn_Ok: {fileID: 3054705606690033283}

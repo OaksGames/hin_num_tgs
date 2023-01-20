@@ -304,8 +304,11 @@ public class GameManager_B01032 : MonoBehaviour, IOAKSGame
         TutHand2.gameObject.SetActive(false);
 
         CurrentItem = 0;
+       
         float LengthDelay = PlayAppreciationVoiceOver(0.25f);
-        float LengthDelay2 = PlayAnswerVoiceOver(3, LengthDelay+0.25f);
+        RandCurrentQuestion = 3;
+        float LengthDelay2 = PlayAnswerVoiceOver(0, LengthDelay+0.25f);
+        
 
         PlayAudio(Sound_CorrectAnswer, LengthDelay + LengthDelay2 + 0.25f);
 
@@ -729,7 +732,7 @@ public class GameManager_B01032 : MonoBehaviour, IOAKSGame
         {
             ClipLength = Sound_AVO[_Ai].EN_Sound_AO[RandCurrentQuestion].clip.length;
             PlayAudio(Sound_AVO[_Ai].EN_Sound_AO[RandCurrentQuestion], _delay);
-            Debug.Log("Sound : " + _Ai);
+            Debug.Log("Sound : " + _Ai + "RandCurrentQuestion" + RandCurrentQuestion);
         }
         if (VOLanguage == 1)
         {

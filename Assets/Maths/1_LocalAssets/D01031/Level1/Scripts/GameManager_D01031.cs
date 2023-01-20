@@ -129,8 +129,8 @@ public class GameManager_D01031 : MonoBehaviour, IOAKSGame
         iTween.ScaleFrom(GemSack.gameObject, iTween.Hash("scale", Vector3.zero, "time", 0.5f, "delay", 0.25f, "easetype", iTween.EaseType.easeOutElastic));
         StartCoroutine(PlayAudioAtOneShot(Sound_Ting, 0.25f));
         PlayAudio(Sound_IntroBegining, 2f);
-        PlayAudio(Sound_Intro1, 7f);
-        PlayAudio(Sound_Intro2, 10.5f);
+        PlayAudio(Sound_Intro1, Sound_IntroBegining[0].clip.length + 2.1f);
+        PlayAudio(Sound_Intro2, Sound_IntroBegining[0].clip.length + 2.1f + Sound_Intro1[0].clip.length + 2.1f);
         StartCoroutine(SetActiveWithDelayCall(GemSack.gameObject, false, 6.5f));
 
         for (int i = 0; i < Tut_Items.Length; i++)
@@ -148,7 +148,7 @@ public class GameManager_D01031 : MonoBehaviour, IOAKSGame
 
         Invoke("EnableAnimator", 2f);
 
-        Invoke("CallIntro3", Sound_Intro1[VOLanguage].clip.length + Sound_Intro2[VOLanguage].clip.length  + 7f); 
+        Invoke("CallIntro3", Sound_Intro2[VOLanguage].clip.length +0.2f + Sound_IntroBegining[0].clip.length + 2.1f + Sound_Intro1[0].clip.length + 2.1f); 
 
     }
     public void EnableAnimator()
